@@ -1,6 +1,5 @@
 <p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png><p>
 
-# <h1 align=center> **PROYECTO INDIVIDUAL Nº1** </h1>
 
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 
@@ -91,21 +90,6 @@ Una vez que toda la data es consumible por la API, está lista para consumir por
 <sub> **Spoiler**: El video NO DEBE durar mas de ***7 minutos*** y DEBE mostrar las consultas requeridas en funcionamiento desde la API** y una breve explicacion del modelo entrenado para el sistema de recomendacion. <sub/>
 
 <br/>
-
-## **Criterios de evaluación**
-
-**`Código`**: Prolijidad de código, uso de clases y/o funciones, en caso de ser necesario, código comentado. 
-
-**`Repositorio`**: Nombres de archivo adecuados, uso de carpetas para ordenar los archivos, README.md presentando el proyecto y el trabajo realizado
-
-**`Cumplimiento`** de los requerimientos de aprobación indicados en el apartado `Propuesta de trabajo`
-
-NOTA: Recuerde entregar el link de acceso al video. Puede alojarse en YouTube, Drive o cualquier plataforma de almacenamiento. **Verificar que sea de acceso público**.
-
-<br/>
-Aqui te sintetizamos que es lo que consideramos un MVP aprobatorio, y la diferencia con un producto completo.
-
-
 
 <p align="center">
 <img src="https://github.com/HX-PRomero/PI_ML_OPS/raw/main/src/MVP_MLops.PNG"  height=250>
